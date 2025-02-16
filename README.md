@@ -20,9 +20,7 @@
 **depth orbbec astra** is a package for ROS2 Jazzy that allow us to use orbbec astra 3D depth camera. This package was originally made by <a href="https://github.com/orbbec/OrbbecSDK_ROS2">Orbbec</a> so all credits to them, we only fixed the package to be compatible with jazzy as it had errors with camera parameters.
 
 ## 🎥 Demostration
-TODO
-
-
+https://github.com/user-attachments/assets/cd80dca3-5be1-4bcc-9473-98eca3bf71fb
 
 ## 📝 How to Build
 
